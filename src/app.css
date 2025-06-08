@@ -1,3 +1,7 @@
-body > .transition-colors {
+body > .transition-colors:not(.dark) {
+  background: linear-gradient( rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9) ), url("/frieren-no-image.webp");
+}
+
+body > .transition-colors:has(.dark) {
   background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9) ), url("/frieren-no-image.webp");
 }
