@@ -1,0 +1,9 @@
+{
+    "logo": "/roxy-example-plugin-logo.png",
+    "name": "css-styles-example-svelte",
+    "url": "https://raw.githubusercontent.com/notwindstone/anisun-svelte-css-styles-extension/refs/heads/main/dist/bundle.js",
+    "pages": [],
+    "version": "semver-1.0.0",
+    "author": "windstone",
+    "areStyles": true
+}
