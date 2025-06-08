@@ -1,1 +1,1 @@
-<div class="svelte-body" />
+<div class="svelte-body"></div>
