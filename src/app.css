@@ -20,6 +20,11 @@
 
 .hero__poster-shadow {
   display: none;
+
+  @media screen and (max-width: 640px) {
+    display: block;
+    border-bottom: 2px solid palevioletred;
+  }
 }
 
 .scrollableCardsShadow {
