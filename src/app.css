@@ -18,7 +18,7 @@
   display: none;
 }
 
-.windose-custom-poster {
+.windose-extension-custom-poster {
   position: absolute;
   top: 64px;
   left: calc(50% + 384px);
