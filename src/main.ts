@@ -9,8 +9,8 @@ if (document.getElementById('extensions-css-loader-id')) {
   });
 }
 
-if (document.getElementsByClassName('hero__wrapper')?.[0]) {
+if (document.getElementById('hero-wrapper')) {
   mount(Poster, {
-    target: document.getElementsByClassName('hero__wrapper')[0]!,
+    target: document.getElementById('hero-wrapper')!,
   });
 }
