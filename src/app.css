@@ -17,13 +17,3 @@
 .scrollableCardsShadow {
   display: none;
 }
-
-.windose-extension-custom-poster {
-  position: absolute;
-  top: 64px;
-  left: calc(50% + 384px);
-  
-  @media screen and (max-width: 640px) {
-    display: none;
-  }
-}
