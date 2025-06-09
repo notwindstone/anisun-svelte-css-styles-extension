@@ -1,1 +1,1 @@
-<img style="position:absolute;top:64px;left:calc(50%+384px)" src="https://raw.githubusercontent.com/notwindstone/anisun-svelte-css-styles-extension/refs/heads/main/public/windose-logo.webp" alt="Windose Logo" />
+<img class="windose-extension-custom-poster" src="https://raw.githubusercontent.com/notwindstone/anisun-svelte-css-styles-extension/refs/heads/main/public/windose-logo.webp" alt="Windose Logo" />
