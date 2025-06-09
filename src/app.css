@@ -6,10 +6,10 @@
   background: linear-gradient( rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.87) ), url("https://cdn.dynamicwallpaper.club/wallpapers/jqc5oqev0br/thumbs/1600/11.jpg");
 }
 
-.object-cover .duration-300 .group-hover:scale-105 .group-hover:brightness-75 .group-focus:scale-105 .group-focus:brightness-75 .sm:blur-md .sm:brightness-50 .sm:scale-110 .sm:group-hover:brightness-50 .sm:group-hover:scale-115 {
+.hero__poster-image {
   display: none;
 }
 
-.select-none .group .w-full > .text-black .absolute .w-full .h-full {
+.hero__poster-shadow {
   display: none;
 }
