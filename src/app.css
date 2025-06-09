@@ -10,23 +10,19 @@
   background: linear-gradient( rgba(0, 0, 0, 0.83), rgba(0, 0, 0, 0.83) ), url("https://cdn.dynamicwallpaper.club/wallpapers/jqc5oqev0br/thumbs/1600/11.jpg");
 }
 
-.hero__poster-image {
-  display: none;
-
-  @media screen and (max-width: 640px) {
-    display: block;
-  }
-}
-
 .hero__poster-shadow {
-  display: none;
-
-  @media screen and (max-width: 640px) {
-    display: block;
-    border-bottom: 2px solid palevioletred;
-  }
+  border-bottom: 2px solid palevioletred;
 }
 
 .scrollableCardsShadow {
   display: none;
+}
+
+.text-2xl {
+  color: palevioletred;
+}
+
+.sidebar__wrapper {
+  background: #ffffff15 !important;
+  backdrop-filter: blur(8px);
 }
