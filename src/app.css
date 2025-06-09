@@ -1,3 +1,7 @@
+.garbageCollectorClearMe {
+  display: none;
+}
+
 .light {
   background: linear-gradient( rgba(255, 255, 255, 0.87), rgba(255, 255, 255, 0.87) ), url("https://cdn.dynamicwallpaper.club/wallpapers/jqc5oqev0br/thumbs/1600/11.jpg");
 }
@@ -8,6 +12,10 @@
 
 .hero__poster-image {
   display: none;
+
+  @media screen and (max-width: 640px) {
+    display: block;
+  }
 }
 
 .hero__poster-shadow {
